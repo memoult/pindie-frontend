@@ -1,6 +1,6 @@
 "use client"
 
-import { CardsListSection } from "../Components/CardsListSection/CardsListSection";
+import { CardsListSection } from "../components/CardsListSection/CardsListSection";
 import { endpoints } from "../api/config";
 import { useGetDataByCategory } from "../api/api-hooks";
 import { Preloader } from "../components/Preloader/Preloader";

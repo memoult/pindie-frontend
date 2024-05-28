@@ -2,10 +2,10 @@
 
 import { Banner } from './components/Banner/Banner';
 import { PromoList } from './components/Promo/PromoList';
-import { CardsListSection } from './Components/CardsListSection/CardsListSection';
+import { CardsListSection } from './components/CardsListSection/CardsListSection';
 import { useGetDataByCategory } from './api/api-hooks';
 import { endpoints } from './api/config';
-import { Preloader } from './Components/Preloader/Preloader';
+import { Preloader } from './components/Preloader/Preloader';
 
 export default function Home() {
   const popularGames = useGetDataByCategory(endpoints.games, "popular")
