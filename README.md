@@ -1,1 +1,1 @@
-Мой бэкэнд: https://xodorkovskypindie.nomoredomainswork.ru/
+Мой бэк: https://xodorkovskypindie.nomoredomainswork.ru/
